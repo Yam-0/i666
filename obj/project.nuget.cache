@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4Rl6nUhQFDrenxvpuijlxKEiymLTG7/57ISCQGIwZr619Tu0yncEb1lXV33RKrji0gL0N4hLFFF9LAJgY9dlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tage\\source\\repos\\i666\\i666 Vertex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tage\\.nuget\\packages\\magick.net.core\\6.0.0\\magick.net.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tage\\.nuget\\packages\\magick.net.systemwindowsmedia\\3.0.4\\magick.net.systemwindowsmedia.3.0.4.nupkg.sha512",
+    "C:\\Users\\Tage\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tage\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tage\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tage\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

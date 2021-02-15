@@ -1,0 +1,46 @@
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\i666 Vertex.exe
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\i666 Vertex.deps.json
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\i666 Vertex.runtimeconfig.json
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\i666 Vertex.runtimeconfig.dev.json
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\i666 Vertex.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\i666 Vertex.pdb
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.1\i666 Vertex.csprojAssemblyReference.cache
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.1\i666 Vertex.AssemblyInfoInputs.cache
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.1\i666 Vertex.AssemblyInfo.cs
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.1\i666 Vertex.csproj.CoreCompileInputs.cache
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.1\i666 Vertex.dll
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.1\i666 Vertex.pdb
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.1\i666 Vertex.genruntimeconfig.cache
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.1\i666 Vertex.csproj.CopyComplete
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\Magick.NET.Core.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\Magick.NET.SystemWindowsMedia.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\i666 Vertex.exe
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\i666 Vertex.deps.json
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\i666 Vertex.runtimeconfig.json
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\i666 Vertex.runtimeconfig.dev.json
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\i666 Vertex.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\i666 Vertex.pdb
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\Magick.NET.Core.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\Magick.NET.SystemWindowsMedia.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Tage\source\repos\i666\obj\Debug\netcoreapp3.1\i666 Vertex.csprojAssemblyReference.cache
+C:\Users\Tage\source\repos\i666\obj\Debug\netcoreapp3.1\i666 Vertex.AssemblyInfoInputs.cache
+C:\Users\Tage\source\repos\i666\obj\Debug\netcoreapp3.1\i666 Vertex.AssemblyInfo.cs
+C:\Users\Tage\source\repos\i666\obj\Debug\netcoreapp3.1\i666 Vertex.csproj.CoreCompileInputs.cache
+C:\Users\Tage\source\repos\i666\obj\Debug\netcoreapp3.1\i666 Vertex.csproj.CopyComplete
+C:\Users\Tage\source\repos\i666\obj\Debug\netcoreapp3.1\i666 Vertex.dll
+C:\Users\Tage\source\repos\i666\obj\Debug\netcoreapp3.1\i666 Vertex.pdb
+C:\Users\Tage\source\repos\i666\obj\Debug\netcoreapp3.1\i666 Vertex.genruntimeconfig.cache

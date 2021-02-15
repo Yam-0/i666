@@ -1,0 +1,13 @@
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.0\i666 Vertex.exe
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.0\i666 Vertex.deps.json
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.0\i666 Vertex.runtimeconfig.json
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.0\i666 Vertex.runtimeconfig.dev.json
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.0\i666 Vertex.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.0\i666 Vertex.pdb
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.0\i666 Vertex.csprojAssemblyReference.cache
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.0\i666 Vertex.AssemblyInfoInputs.cache
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.0\i666 Vertex.AssemblyInfo.cs
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.0\i666 Vertex.csproj.CoreCompileInputs.cache
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.0\i666 Vertex.dll
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.0\i666 Vertex.pdb
+C:\Users\Tage\source\repos\i666 Vertex\obj\Debug\netcoreapp3.0\i666 Vertex.genruntimeconfig.cache

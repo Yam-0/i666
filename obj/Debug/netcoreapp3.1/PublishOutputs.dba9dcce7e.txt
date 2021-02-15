@@ -1,0 +1,14 @@
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\i666 Vertex.exe
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\i666 Vertex.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\i666 Vertex.deps.json
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\i666 Vertex.runtimeconfig.json
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\i666 Vertex.pdb
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\Magick.NET.Core.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\Magick.NET.SystemWindowsMedia.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\System.Windows.Extensions.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tage\source\repos\i666 Vertex\bin\Debug\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
